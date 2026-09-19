@@ -42,6 +42,3 @@ This repository is a growing research notebook and will be updated as I progress
 
 > The notes in this repository represent my learning and research process and should not be considered formal publications.
 
-## Research Direction
-
-**Cybersecurity → Privacy → Intrusion Detection → AI-driven Cyber Defense**
